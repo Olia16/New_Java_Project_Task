@@ -7,4 +7,7 @@ public class Hat {
 
 
     // adding more lines
+    //Update the Hat class
+    //		add more lines
+    //		commit those changes
 }
